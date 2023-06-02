@@ -1,0 +1,22 @@
+{
+  "name": "superhero-front",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.2",
+    "vue-tsc": "^1.6.5",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.3.1",
+    "vite": "^4.1.4"
+  }
+}
